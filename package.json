@@ -1,14 +1,14 @@
 {
-  "name": "jquery-range",
+  "name": "@caselawanalytics/jquery-range",
   "version": "1.0.0",
   "description": "jQuery plugin to create range selector",
-  "main": "jquery.range-min.js",
+  "main": "jquery.range.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nitinhayaran/jRange.git"
+    "url": "git+https://github.com/case-law-analytics/jRange.git"
   },
   "keywords": [
     "jquery",
